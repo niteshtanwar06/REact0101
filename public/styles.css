@@ -1,0 +1,9 @@
+* {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+.photo {
+  margin: 5px;
+  padding: 10px;
+  border: 5px solid black;
+}
